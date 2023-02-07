@@ -20,6 +20,9 @@ a sane regular expression and used that way (see filter_commit() in helpers.py)
 If this is used in "message_filter" (see below), it will select
 a commit containing keyword. However, if it's used in "message_ignore",
 it will ignore the commit with any keyword.
+
+Below are some super simple example to demonstrate some usecases for the filter
+"system", they won't necessary generate useful results though.
 """
 BASIC_FILTER = {
     "UAF": [ "use-after-free", "use after free", "UAF" ],
