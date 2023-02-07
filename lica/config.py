@@ -75,9 +75,6 @@ NUANCED_CONFIG = {
     "message_filter": NUANCED_FILTER,
     "reporter_filter": None,
     "coverage_list": [
-        "/mnt/black/Kernels/linux-5.15.90",
-        "/mnt/black/Kernels/linux-5.10.165",
-        "/mnt/black/Kernels/linux-5.4.230",
         #"/your/kernels/linux-5.15.90",
         #"/your/kernels/linux-5.10.165",
         #"/your/kernels/linux-5.4.230"
