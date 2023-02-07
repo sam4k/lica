@@ -86,7 +86,8 @@ NUANCED_CONFIG = {
 
 # this is the config you're gonna use
 # XXX: should probs make this an arg or smth
-CONFIG = NUANCED_CONFIG
+CONFIG = DEF_CONFIG
+
 
 # initing the stats here cos why not
 STATS = {
